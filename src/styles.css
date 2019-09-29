@@ -1,0 +1,70 @@
+/* You can add global styles to this file, and also import other style files */
+
+a.nav-link{
+    font-family: 'Poppins', sans-serif;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.bg{
+    background-image: url("./assets/images/2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.p1{
+    padding-left: 200px;
+    padding-top: 50px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Leckerli One', cursive;
+    color: #990000;
+    font-size: 48px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+
+.p2{
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    padding-left: 220px;
+    color:#ffffff;
+    font-size: 100px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+}
+
+.p3{
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 1.6;
+    letter-spacing: 3px;
+}
+
+.menuc{
+    background-image: url("./assets/images/bg1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.fa{
+    padding-left: 20px;
+}
+
